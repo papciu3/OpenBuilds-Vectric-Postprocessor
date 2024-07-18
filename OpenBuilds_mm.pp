@@ -62,8 +62,8 @@ VAR MIN_ARC_RADIUS = 1
 
 begin HEADER
 
-"T1"
-"G17"
+
+
 "G21"
 "G90"
 "G0[ZH]"
